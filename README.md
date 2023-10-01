@@ -17,7 +17,7 @@
 *Let's connect! Here's where you can find me:*
 
 📌 **YouTube:** [Monday830](https://www.youtube.com/@monday830)  
-📌 **Link Tree:** `[https://linktr.ee/monday830](https://linktr.ee/monday830)`
+📌 **Link Tree:** [https://linktr.ee/monday830](https://linktr.ee/monday830)
 
 ---
 
