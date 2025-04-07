@@ -18,7 +18,7 @@
 *Let's connect! Here's where you can find me:*
 
 📌 **YouTube:** [@uncleaarohtesting](https://www.youtube.com/@uncleaarohtesting)  
-📌 **Link Tree:** [https://linktr.ee/uncleaarohtesting](https://linktr.ee/uncleaaroh)
+📌 **Link Tree:** [https://linktr.ee/uncleaaroh](https://linktr.ee/uncleaaroh)
 
 ---
 
