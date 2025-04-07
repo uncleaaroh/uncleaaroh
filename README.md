@@ -1,14 +1,15 @@
 ### 👋 Hey there! I'm Uncle Aaroh.
 
-- 🎙️ Known as the voice behind **Monday830**, the YouTube channel where tech meets creativity. Have you tuned in yet?
+- 🎙️ Known as the voice behind **@uncleaarohtesting**, the YouTube channel where tech meets creativity. Have you tuned in yet?
+- 🎓 **LinkedIn Learning Instructor** on advanced automation topics including Playwright, test design, and optimisation techniques.
 - 🚀 Passionate about leveraging technology to tell captivating stories and create impact. Coding isn't just a task; it's an art.
 - 🌱 Every day is a learning journey. Currently deep diving into machine learning and its intertwining with media production.
 - 🌍 Exploring collaborations that disrupt, innovate, and inspire. Got a groundbreaking idea? Let's chat.
 - 💌 Reach out to me for exciting partnerships, or just to geek out on tech and content! Drop a DM on my YouTube channel or send an email.
 
-📺 **Subscribe** to my channel [Monday830](https://www.youtube.com/@monday830) for the latest in tech trends, hacks, and behind-the-scenes peeks.
+📺 **Subscribe** to my channel [@uncleaarohtesting](https://www.youtube.com/@uncleaarohtesting) for the latest in tech trends, automation hacks, and behind-the-scenes peeks.
 
---- 
+---
 
 💡 **Fun fact:** Much like Uncle Iroh from Avatar, I too believe in the wisdom of tea and the magic of patience.
 
@@ -16,8 +17,8 @@
 
 *Let's connect! Here's where you can find me:*
 
-📌 **YouTube:** [Monday830](https://www.youtube.com/@monday830)  
-📌 **Link Tree:** [https://linktr.ee/monday830](https://linktr.ee/monday830)
+📌 **YouTube:** [@uncleaarohtesting](https://www.youtube.com/@uncleaarohtesting)  
+📌 **Link Tree:** [https://linktr.ee/uncleaarohtesting](https://linktr.ee/uncleaaroh)
 
 ---
 
